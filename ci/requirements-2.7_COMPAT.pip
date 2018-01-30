@@ -1,4 +1,4 @@
-html5lib==1.0b2
+html5lib==1.0.1
 beautifulsoup4==4.2.0
 openpyxl
 argparse

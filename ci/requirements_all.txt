@@ -25,4 +25,4 @@ lxml==4.1.1
 sqlalchemy==1.2.2
 bottleneck==1.2.1
 pymysql==0.8.0
-Jinja2
+Jinja2==2.10

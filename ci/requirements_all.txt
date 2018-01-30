@@ -17,7 +17,7 @@ beautifulsoup4==4.6.0
 numpy==1.14.0
 cython==0.27.3
 scipy==1.0.0
-numexpr
+numexpr==2.6.4
 pytables
 matplotlib
 seaborn==0.8.1

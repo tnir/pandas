@@ -23,6 +23,6 @@ matplotlib==2.1.2
 seaborn==0.8.1
 lxml==4.1.1
 sqlalchemy==1.2.2
-bottleneck
+bottleneck==1.2.1
 pymysql
 Jinja2

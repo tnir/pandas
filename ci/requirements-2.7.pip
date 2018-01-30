@@ -1,6 +1,6 @@
 blosc==1.5.1
 pandas-gbq==0.3.0
-html5lib
+html5lib==1.0.1
 beautifulsoup4
 pathlib
 backports.lzma

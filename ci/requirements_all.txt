@@ -9,7 +9,7 @@ python-dateutil==2.6.1
 pytz==2017.3
 openpyxl==2.5.0
 xlsxwriter==1.0.2
-xlrd
+xlrd==1.1.0
 xlwt
 html5lib==1.0.1
 patsy

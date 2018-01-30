@@ -3,5 +3,5 @@ geopandas==0.3.0
 seaborn==0.8.1
 pandas_gbq==0.3.0
 pandas_datareader==0.6.0
-statsmodels
+statsmodels==0.8.0
 scikit-learn

@@ -2,7 +2,7 @@ blosc==1.5.1
 pandas-gbq==0.3.0
 html5lib==1.0.1
 beautifulsoup4==4.6.0
-pathlib
+pathlib==1.0.1
 backports.lzma
 py
 PyCrypto

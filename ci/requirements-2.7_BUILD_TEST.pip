@@ -1,7 +1,7 @@
-xarray
-geopandas
-seaborn
-pandas_gbq
-pandas_datareader
-statsmodels
-scikit-learn
+xarray==0.10.0
+geopandas==0.3.0
+seaborn==0.8.1
+pandas_gbq==0.3.0
+pandas_datareader==0.6.0
+statsmodels==0.8.0
+scikit-learn==0.19.1

@@ -1,8 +1,8 @@
-python-dateutil
-pytz
-numpy
-cython
+python-dateutil==2.6.1
+pytz==2017.3
+numpy==1.14.0
+cython==0.27.3
 pytest>=3.1.0
-pytest-cov
-flake8
-moto
+pytest-cov==2.5.1
+flake8==3.5.0
+moto==1.2.0

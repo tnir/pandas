@@ -6,5 +6,5 @@ pathlib==1.0.1
 backports.lzma==0.0.10
 py==1.5.2
 PyCrypto==2.6.1
-mock
+mock==2.0.0
 ipython

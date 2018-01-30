@@ -7,7 +7,7 @@ nbsphinx
 ipython==6.2.1
 python-dateutil
 pytz
-openpyxl
+openpyxl==2.5.0
 xlsxwriter
 xlrd
 xlwt

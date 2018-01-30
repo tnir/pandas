@@ -3,7 +3,7 @@ pandas-gbq==0.3.0
 html5lib==1.0.1
 beautifulsoup4==4.6.0
 pathlib==1.0.1
-backports.lzma
+backports.lzma==0.0.10
 py
 PyCrypto
 mock

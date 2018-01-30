@@ -1,5 +1,5 @@
 xarray==0.10.0
-geopandas
+geopandas==0.3.0
 seaborn
 pandas_gbq
 pandas_datareader

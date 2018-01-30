@@ -5,7 +5,7 @@ flake8==3.5.0
 sphinx=1.5*
 nbsphinx==0.3.1
 ipython==6.2.1
-python-dateutil
+python-dateutil==2.6.1
 pytz
 openpyxl==2.5.0
 xlsxwriter

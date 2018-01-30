@@ -1,6 +1,6 @@
 python-dateutil==2.6.1
 pytz==2017.3
-numpy
+numpy==1.14.0
 cython
 pytest>=3.1.0
 pytest-cov==2.5.1

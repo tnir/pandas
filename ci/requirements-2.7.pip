@@ -7,4 +7,4 @@ backports.lzma==0.0.10
 py==1.5.2
 PyCrypto==2.6.1
 mock==2.0.0
-ipython
+ipython==6.2.1

@@ -4,4 +4,4 @@ seaborn
 pandas_gbq
 pandas_datareader
 statsmodels
-scikit-learn
+scikit-learn==0.19.1

@@ -6,5 +6,5 @@ pathlib
 backports.lzma
 py
 PyCrypto
-mock
+mock==2.0.0
 ipython

@@ -1,4 +1,4 @@
-blosc
+blosc==1.5.1
 pandas-gbq
 html5lib
 beautifulsoup4

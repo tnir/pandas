@@ -5,6 +5,6 @@ beautifulsoup4
 pathlib
 backports.lzma
 py
-PyCrypto
+PyCrypto==2.6.1
 mock
 ipython

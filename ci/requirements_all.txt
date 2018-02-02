@@ -12,7 +12,7 @@ xlsxwriter
 xlrd
 xlwt
 html5lib
-patsy
+patsy==0.5.0
 beautifulsoup4
 numpy
 cython

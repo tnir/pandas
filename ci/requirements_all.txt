@@ -23,6 +23,6 @@ matplotlib
 seaborn
 lxml
 sqlalchemy
-bottleneck
+bottleneck==1.2.1
 pymysql
 Jinja2

@@ -9,7 +9,7 @@ python-dateutil
 pytz
 openpyxl
 xlsxwriter
-xlrd
+xlrd==1.1.0
 xlwt
 html5lib
 patsy

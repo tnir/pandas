@@ -5,7 +5,7 @@ flake8
 sphinx=1.5*
 nbsphinx
 ipython
-python-dateutil
+python-dateutil==2.6.1
 pytz
 openpyxl
 xlsxwriter

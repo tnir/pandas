@@ -20,7 +20,7 @@ scipy
 numexpr
 pytables
 matplotlib
-seaborn
+seaborn==0.8.1
 lxml
 sqlalchemy
 bottleneck

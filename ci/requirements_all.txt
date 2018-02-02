@@ -25,4 +25,4 @@ lxml
 sqlalchemy
 bottleneck
 pymysql
-Jinja2
+Jinja2==2.10

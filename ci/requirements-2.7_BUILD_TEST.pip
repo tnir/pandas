@@ -1,7 +1,7 @@
 xarray
 geopandas
 seaborn
-pandas_gbq
+pandas_gbq==0.3.1
 pandas_datareader
 statsmodels
 scikit-learn

@@ -19,7 +19,7 @@ cython
 scipy
 numexpr
 pytables
-matplotlib
+matplotlib==2.2.0
 seaborn
 lxml
 sqlalchemy

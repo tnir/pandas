@@ -21,7 +21,7 @@ numexpr
 pytables
 matplotlib
 seaborn
-lxml
+lxml==4.2.0
 sqlalchemy
 bottleneck
 pymysql

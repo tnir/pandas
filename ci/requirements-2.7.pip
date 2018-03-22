@@ -4,7 +4,7 @@ html5lib
 beautifulsoup4
 pathlib
 backports.lzma
-py
+py==1.5.3
 PyCrypto
 mock
 ipython

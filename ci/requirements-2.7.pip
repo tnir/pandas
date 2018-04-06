@@ -1,5 +1,5 @@
 blosc
-pandas-gbq
+pandas-gbq==0.4.1
 html5lib
 beautifulsoup4
 pathlib

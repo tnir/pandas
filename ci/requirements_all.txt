@@ -4,7 +4,7 @@ pytest-xdist
 flake8
 sphinx=1.5*
 nbsphinx
-ipython
+ipython==6.3.1
 python-dateutil
 pytz
 openpyxl

@@ -8,7 +8,7 @@ ipython
 python-dateutil
 pytz
 openpyxl
-xlsxwriter
+xlsxwriter==1.0.3
 xlrd
 xlwt
 html5lib

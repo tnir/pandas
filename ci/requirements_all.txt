@@ -6,7 +6,7 @@ sphinx=1.5*
 nbsphinx
 ipython
 python-dateutil
-pytz
+pytz==2018.4
 openpyxl
 xlsxwriter
 xlrd

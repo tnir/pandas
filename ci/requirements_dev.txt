@@ -1,5 +1,5 @@
 python-dateutil
-pytz
+pytz==2018.4
 numpy
 cython
 pytest>=3.1.0

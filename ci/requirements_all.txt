@@ -15,7 +15,7 @@ html5lib
 patsy
 beautifulsoup4
 numpy
-cython
+cython==0.28.2
 scipy
 numexpr
 pytables

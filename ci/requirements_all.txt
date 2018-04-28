@@ -14,7 +14,7 @@ xlwt
 html5lib
 patsy
 beautifulsoup4
-numpy
+numpy==1.14.3
 cython
 scipy
 numexpr

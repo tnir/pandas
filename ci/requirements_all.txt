@@ -17,7 +17,7 @@ beautifulsoup4
 numpy
 cython
 scipy
-numexpr
+numexpr==2.6.5
 pytables
 matplotlib
 seaborn

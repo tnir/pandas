@@ -1,4 +1,4 @@
-python-dateutil
+python-dateutil==2.7.3
 pytz
 numpy
 cython

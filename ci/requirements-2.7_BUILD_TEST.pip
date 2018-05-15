@@ -3,5 +3,5 @@ geopandas
 seaborn
 pandas_gbq
 pandas_datareader
-statsmodels
+statsmodels==0.9.0
 scikit-learn

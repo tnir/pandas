@@ -1,7 +1,7 @@
 python-dateutil
 pytz
 numpy
-cython
+cython==0.28.3
 pytest>=3.1.0
 pytest-cov
 flake8

@@ -22,7 +22,7 @@ pytables
 matplotlib
 seaborn
 lxml
-sqlalchemy
+sqlalchemy==1.2.8
 bottleneck
 pymysql
 Jinja2

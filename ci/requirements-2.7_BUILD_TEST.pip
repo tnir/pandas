@@ -1,4 +1,4 @@
-xarray
+xarray==0.10.5
 geopandas
 seaborn
 pandas_gbq

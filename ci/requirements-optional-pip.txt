@@ -19,7 +19,7 @@ pymysql
 tables
 pytest-cov
 pytest-xdist
-s3fs
+s3fs==0.1.5
 scipy
 seaborn
 sqlalchemy

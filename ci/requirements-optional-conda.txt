@@ -12,7 +12,7 @@ matplotlib
 nbsphinx
 numexpr
 openpyxl
-pyarrow
+pyarrow==0.9.0.post1
 pymysql
 pytables
 pytest-cov

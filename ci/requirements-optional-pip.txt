@@ -16,7 +16,7 @@ numexpr
 openpyxl
 pyarrow
 pymysql
-tables
+tables==3.4.4
 pytest-cov
 pytest-xdist
 s3fs

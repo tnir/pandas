@@ -1,0 +1,46 @@
+version: 2
+jobs:
+  build:
+    parallelism: 4
+    environment:
+      MINICONDA_DIR: /home/ubuntu/miniconda3
+    docker:
+    # https://hub.docker.com/r/circleci/build-image/
+    - image: circleci/build-image:ubuntu-14.04-XXL-1327-3401d20
+    steps:
+    - checkout
+    - run:
+        name: Install build-essential etc.
+        command: apt update -qq && apt install -y -qq wget build-essential ca-certificates
+    - restore_cache:
+        keys:
+        - dep-{{ .Branch }}
+    - run:
+        name: Install miniconda
+        command: |
+            case $CIRCLE_NODE_INDEX in
+             0)
+               apt install -y language-pack-it && ./ci/install_circle.sh JOB="2.7_COMPAT" ENV_FILE="ci/circle-27-compat.yaml" LOCALE_OVERRIDE="it_IT.UTF-8" ;;
+             1)
+               apt install -y language-pack-zh-hans && ./ci/install_circle.sh JOB="3.6_LOCALE" ENV_FILE="ci/circle-36-locale.yaml" LOCALE_OVERRIDE="zh_CN.UTF-8" ;;
+             2)
+               apt install -y language-pack-zh-hans && ./ci/install_circle.sh JOB="3.6_LOCALE_SLOW" ENV_FILE="ci/circle-36-locale_slow.yaml" LOCALE_OVERRIDE="zh_CN.UTF-8" ;;
+             3)
+               ./ci/install_circle.sh JOB="3.5_ASCII" ENV_FILE="ci/circle-35-ascii.yaml" LOCALE_OVERRIDE="C" ;;
+            esac
+    - save_cache:
+        key: dep-{{ .Branch }}
+        paths:
+        - $MINICONDA_DIR
+        - ~/.conda
+    - run: ./ci/show_circle.sh
+    - run: ./ci/install_db_circle.sh
+    - run:
+        name: Run tests
+        command: case $CIRCLE_NODE_INDEX in 0) ./ci/run_circle.sh --skip-slow --skip-network ;; 1) ./ci/run_circle.sh --only-slow --skip-network ;; 2) ./ci/run_circle.sh --skip-slow --skip-network ;; 3) ./ci/run_circle.sh --skip-slow --skip-network ;; esac
+    - store_test_results:
+        path: /tmp/circleci-test-results
+    - store_artifacts:
+        path: /tmp/circleci-artifacts
+    - store_artifacts:
+        path: /tmp/circleci-test-results

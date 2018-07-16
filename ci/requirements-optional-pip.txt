@@ -21,7 +21,7 @@ pytest-cov
 pytest-xdist
 s3fs
 scipy
-seaborn
+seaborn==0.9.0
 sqlalchemy
 xarray
 xlrd

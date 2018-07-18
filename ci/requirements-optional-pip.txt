@@ -23,7 +23,7 @@ s3fs
 scipy
 seaborn
 sqlalchemy
-xarray
+xarray==0.10.8
 xlrd
 xlsxwriter
 xlwt

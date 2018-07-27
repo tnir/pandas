@@ -18,7 +18,7 @@ pyarrow
 pymysql
 tables
 pytest-cov
-pytest-xdist
+pytest-xdist==1.22.4
 s3fs
 scipy
 seaborn

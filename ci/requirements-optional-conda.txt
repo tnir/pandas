@@ -7,7 +7,7 @@ html5lib
 ipython>=5.6.0
 ipykernel
 jinja2
-lxml
+lxml==4.2.4
 matplotlib
 nbsphinx
 numexpr

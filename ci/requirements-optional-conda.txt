@@ -8,7 +8,7 @@ ipython>=5.6.0
 ipykernel
 jinja2
 lxml
-matplotlib
+matplotlib==2.2.3
 nbsphinx
 numexpr
 openpyxl

@@ -3,7 +3,7 @@
 beautifulsoup4>=4.2.1
 blosc
 bottleneck
-fastparquet
+fastparquet==0.1.6
 feather-format
 html5lib
 ipython>=5.6.0

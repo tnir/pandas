@@ -9,7 +9,7 @@ ipykernel
 jinja2
 lxml
 matplotlib
-nbsphinx
+nbsphinx==0.3.5
 numexpr
 openpyxl
 pyarrow

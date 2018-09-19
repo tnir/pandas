@@ -20,7 +20,7 @@ pytest-xdist
 s3fs
 scipy
 seaborn
-sqlalchemy
+sqlalchemy==1.2.12
 xarray
 xlrd
 xlsxwriter

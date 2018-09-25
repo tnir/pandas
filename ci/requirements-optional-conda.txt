@@ -16,7 +16,7 @@ pyarrow
 pymysql
 pytables
 pytest-cov
-pytest-xdist
+pytest-xdist==1.23.1
 s3fs
 scipy
 seaborn

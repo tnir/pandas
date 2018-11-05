@@ -1,5 +1,5 @@
 beautifulsoup4>=4.2.1
-blosc
+blosc==1.6.2
 bottleneck
 fastparquet
 feather-format

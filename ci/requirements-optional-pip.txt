@@ -13,7 +13,7 @@ lxml
 matplotlib
 nbsphinx
 numexpr
-openpyxl
+openpyxl==2.5.11
 pyarrow
 pymysql
 tables

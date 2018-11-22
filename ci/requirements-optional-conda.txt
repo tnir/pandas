@@ -17,7 +17,7 @@ pymysql
 pytables
 pytest-cov
 pytest-xdist
-s3fs
+s3fs==0.2.0
 scipy
 seaborn
 sqlalchemy

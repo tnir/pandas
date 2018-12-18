@@ -20,7 +20,7 @@ tables
 pytest-cov
 pytest-xdist
 s3fs
-scipy
+scipy==1.2.0
 seaborn
 sqlalchemy
 xarray

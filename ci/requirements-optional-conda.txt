@@ -13,7 +13,7 @@ nbsphinx
 numexpr
 openpyxl
 pyarrow
-pymysql
+pymysql==0.9.3
 pytables
 pytest-cov
 pytest-xdist

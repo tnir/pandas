@@ -10,7 +10,7 @@ jinja2
 lxml
 matplotlib
 nbsphinx
-numexpr
+numexpr==2.6.9
 openpyxl
 pyarrow
 pymysql

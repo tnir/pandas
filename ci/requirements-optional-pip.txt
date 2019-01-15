@@ -11,7 +11,7 @@ ipykernel
 jinja2
 lxml
 matplotlib
-nbsphinx
+nbsphinx==0.4.2
 numexpr
 openpyxl
 pyarrow

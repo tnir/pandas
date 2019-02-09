@@ -23,5 +23,5 @@ seaborn
 sqlalchemy
 xarray
 xlrd
-xlsxwriter
+xlsxwriter==1.1.3
 xlwt

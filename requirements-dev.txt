@@ -16,7 +16,7 @@ numpydoc
 beautifulsoup4>=4.2.1
 blosc
 botocore>=1.11
-boto3
+boto3==1.9.91
 bottleneck>=1.2.0
 fastparquet>=0.1.2
 html5lib

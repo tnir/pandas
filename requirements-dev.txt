@@ -39,6 +39,6 @@ sqlalchemy
 statsmodels
 xarray
 xlrd
-xlsxwriter
+xlsxwriter==1.1.4
 xlwt
 cpplint

@@ -8,7 +8,7 @@ flake8-comprehensions
 flake8-rst>=0.6.0,<=0.7.0
 gitpython
 hypothesis>=3.82
-isort
+isort==4.3.4
 moto
 pytest>=4.0
 sphinx

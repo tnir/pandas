@@ -35,7 +35,7 @@ pytest-xdist
 s3fs
 scipy>=1.1
 seaborn
-sqlalchemy
+sqlalchemy==1.2.18
 statsmodels
 xarray
 xlrd

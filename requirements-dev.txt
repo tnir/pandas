@@ -3,7 +3,7 @@ python-dateutil>=2.5.0
 pytz
 asv
 cython>=0.28.2
-flake8
+flake8==3.7.6
 flake8-comprehensions
 flake8-rst>=0.6.0,<=0.7.0
 gitpython

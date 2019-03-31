@@ -44,4 +44,4 @@ xarray
 xlrd
 xlsxwriter
 xlwt
-cpplint
+cpplint==1.4.4

@@ -13,7 +13,7 @@ moto
 mypy
 pycodestyle
 pytest>=4.0.2
-pytest-mock
+pytest-mock==1.10.3
 sphinx
 numpydoc
 beautifulsoup4>=4.2.1

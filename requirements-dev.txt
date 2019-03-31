@@ -39,7 +39,7 @@ s3fs
 scipy>=1.1
 seaborn
 sqlalchemy
-statsmodels
+statsmodels==0.9.0
 xarray
 xlrd
 xlsxwriter

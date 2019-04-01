@@ -40,7 +40,7 @@ scipy>=1.1
 seaborn
 sqlalchemy
 statsmodels
-xarray
+xarray==0.12.0
 xlrd
 xlsxwriter
 xlwt

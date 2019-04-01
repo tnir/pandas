@@ -43,5 +43,5 @@ statsmodels
 xarray
 xlrd
 xlsxwriter
-xlwt
+xlwt==1.3.0
 cpplint

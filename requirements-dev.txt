@@ -15,7 +15,7 @@ pycodestyle
 pytest>=4.0.2
 pytest-mock
 sphinx
-numpydoc
+numpydoc==0.9.1
 beautifulsoup4>=4.2.1
 blosc
 botocore>=1.11

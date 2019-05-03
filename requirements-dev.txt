@@ -33,7 +33,7 @@ numexpr>=2.6.8
 openpyxl
 pyarrow>=0.9.0
 tables>=3.4.2
-pytest-cov
+pytest-cov==2.7.1
 pytest-xdist
 s3fs
 scipy>=1.1

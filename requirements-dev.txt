@@ -14,7 +14,7 @@ mypy
 pycodestyle
 pytest>=4.0.2
 pytest-mock
-sphinx
+sphinx==2.1.2
 numpydoc
 beautifulsoup4>=4.2.1
 blosc

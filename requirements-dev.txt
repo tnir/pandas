@@ -35,7 +35,7 @@ pyarrow>=0.9.0
 tables>=3.4.2
 pytest-cov
 pytest-xdist
-s3fs
+s3fs==0.2.2
 scipy>=1.1
 seaborn
 sqlalchemy

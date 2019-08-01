@@ -1,6 +1,6 @@
 numpy>=1.15
 python-dateutil>=2.5.0
-pytz
+pytz==2019.2
 asv
 cython>=0.28.2
 flake8

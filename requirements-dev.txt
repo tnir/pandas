@@ -27,7 +27,7 @@ pytest-mock
 pytest-xdist
 seaborn
 statsmodels
-ipywidgets
+ipywidgets==7.5.1
 nbformat
 notebook>=5.7.5
 pip

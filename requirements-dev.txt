@@ -54,4 +54,4 @@ xarray
 xlrd
 xlsxwriter
 xlwt
-pyreadstat
+pyreadstat==0.2.8

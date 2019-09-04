@@ -17,7 +17,7 @@ numpydoc>=0.9.0
 nbconvert>=5.4.1
 nbsphinx
 pandoc
-boto3
+boto3==1.9.222
 botocore>=1.11
 hypothesis>=3.82
 moto

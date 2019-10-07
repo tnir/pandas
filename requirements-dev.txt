@@ -49,7 +49,7 @@ pyqt
 tables>=3.4.2
 python-snappy
 s3fs
-sqlalchemy
+sqlalchemy==1.3.9
 xarray
 xlrd
 xlsxwriter

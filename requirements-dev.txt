@@ -52,6 +52,6 @@ s3fs
 sqlalchemy
 xarray
 xlrd
-xlsxwriter
+xlsxwriter==1.2.5
 xlwt
 pyreadstat

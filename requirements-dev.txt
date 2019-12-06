@@ -62,6 +62,6 @@ xarray
 xlrd
 xlsxwriter
 xlwt
-odfpy
+odfpy==1.4.0
 pyreadstat
 git+https://github.com/pandas-dev/pandas-sphinx-theme.git@master

@@ -60,7 +60,7 @@ s3fs
 sqlalchemy
 xarray
 xlrd
-xlsxwriter
+xlsxwriter==1.2.2
 xlwt
 odfpy
 pyreadstat

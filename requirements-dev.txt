@@ -36,7 +36,7 @@ pytest-xdist>=1.21
 seaborn
 statsmodels
 ipywidgets
-nbformat
+nbformat==5.0.3
 notebook>=5.7.5
 pip
 blosc

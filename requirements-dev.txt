@@ -33,7 +33,7 @@ moto
 pytest>=5.0.1
 pytest-cov
 pytest-xdist>=1.21
-seaborn
+seaborn==0.10.0
 statsmodels
 ipywidgets
 nbformat

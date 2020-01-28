@@ -15,7 +15,7 @@ gitpython
 sphinx
 numpydoc>=0.9.0
 nbconvert>=5.4.1
-nbsphinx
+nbsphinx==0.5.1
 pandoc
 dask
 toolz>=0.7.3

@@ -58,7 +58,7 @@ tables>=3.4.2
 python-snappy
 s3fs
 sqlalchemy
-xarray
+xarray==0.15.0
 xlrd
 xlsxwriter
 xlwt

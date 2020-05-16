@@ -4,7 +4,7 @@
 numpy>=1.15
 python-dateutil>=2.6.1
 pytz
-asv
+asv==0.4.2
 cython>=0.29.13
 black==19.10b0
 cpplint

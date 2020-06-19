@@ -20,7 +20,7 @@ sphinx
 nbconvert>=5.4.1
 nbsphinx
 pandoc
-dask
+dask==2.19.0
 toolz>=0.7.3
 fsspec>=0.5.1
 partd>=0.3.10

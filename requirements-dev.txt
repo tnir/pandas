@@ -18,7 +18,7 @@ gitpython
 gitdb2==2.0.6
 sphinx
 nbconvert>=5.4.1
-nbsphinx
+nbsphinx==0.8.0
 pandoc
 dask
 toolz>=0.7.3

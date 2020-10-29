@@ -38,7 +38,7 @@ pytest-cov
 pytest-xdist>=1.21
 pytest-asyncio
 seaborn
-statsmodels
+statsmodels==0.12.1
 ipywidgets
 nbformat
 notebook>=5.7.5

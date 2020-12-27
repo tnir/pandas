@@ -39,7 +39,7 @@ pytest-xdist>=1.21
 pytest-asyncio
 seaborn
 statsmodels
-ipywidgets
+ipywidgets==7.6.2
 nbformat
 notebook>=5.7.5
 pip

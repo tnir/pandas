@@ -68,7 +68,7 @@ tables>=3.4.2
 s3fs
 sqlalchemy
 xarray
-pyreadstat
+pyreadstat==1.0.8
 tabulate>=0.8.3
 git+https://github.com/pandas-dev/pandas-sphinx-theme.git@master
 git+https://github.com/numpy/numpydoc

@@ -27,7 +27,7 @@ partd>=0.3.10
 cloudpickle>=0.2.1
 markdown
 feedparser
-pyyaml
+pyyaml==5.4
 requests
 boto3
 botocore>=1.11

@@ -42,7 +42,7 @@ statsmodels
 ipywidgets
 nbformat
 notebook>=5.7.5
-pip
+pip==21.0
 blosc
 bottleneck>=1.2.1
 ipykernel

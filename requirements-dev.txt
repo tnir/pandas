@@ -3,7 +3,7 @@
 
 numpy>=1.15
 python-dateutil>=2.6.1
-pytz
+pytz==2021.1
 asv
 cython>=0.29.13
 black==19.10b0

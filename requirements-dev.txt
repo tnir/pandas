@@ -66,7 +66,7 @@ python-snappy
 pyqt5>=5.9.2
 tables>=3.4.2
 s3fs
-sqlalchemy
+sqlalchemy==1.4.10
 xarray
 pyreadstat
 tabulate>=0.8.3

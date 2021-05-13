@@ -14,7 +14,7 @@ flake8-rst>=0.6.0,<=0.7.0
 isort
 mypy==0.730
 pycodestyle
-gitpython
+gitpython==3.1.16
 gitdb2==2.0.6
 sphinx
 nbconvert>=5.4.1

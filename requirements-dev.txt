@@ -19,7 +19,7 @@ gitdb2==2.0.6
 sphinx
 nbconvert>=5.4.1
 nbsphinx
-pandoc
+pandoc==1.1.0
 dask
 toolz>=0.7.3
 fsspec>=0.5.1

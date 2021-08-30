@@ -19,7 +19,7 @@ pyupgrade
 gitpython
 gitdb
 sphinx
-sphinx-panels
+sphinx-panels==0.5.2
 nbconvert>=5.4.1
 nbsphinx
 pandoc

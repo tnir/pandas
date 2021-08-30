@@ -35,7 +35,7 @@ boto3
 botocore>=1.11
 hypothesis>=5.5.3
 moto
-flask
+flask==2.0.1
 pytest>=6.0
 pytest-cov
 pytest-xdist>=1.31

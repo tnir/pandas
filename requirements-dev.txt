@@ -84,5 +84,5 @@ pandas-dev-flaker==0.2.0
 types-python-dateutil
 types-PyMySQL
 types-pytz
-types-setuptools
+types-setuptools==57.0.2
 setuptools>=51.0.0

@@ -23,7 +23,7 @@ sphinx-panels
 nbconvert>=5.4.1
 nbsphinx
 pandoc
-dask
+dask==2021.9.0
 toolz>=0.7.3
 partd>=0.3.10
 cloudpickle>=0.2.1

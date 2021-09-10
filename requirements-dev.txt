@@ -16,7 +16,7 @@ mypy==0.910
 pre-commit>=2.9.2
 pycodestyle
 pyupgrade
-gitpython
+gitpython==3.1.23
 gitdb
 sphinx
 sphinx-panels

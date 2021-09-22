@@ -59,7 +59,7 @@ numba>=0.50.1
 beautifulsoup4>=4.8.2
 html5lib
 lxml
-openpyxl
+openpyxl==3.0.9
 xlrd
 xlsxwriter
 xlwt

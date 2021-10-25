@@ -17,7 +17,7 @@ pre-commit>=2.9.2
 pycodestyle
 pyupgrade
 gitpython
-gitdb
+gitdb==4.0.9
 sphinx
 sphinx-panels
 nbconvert>=5.4.1

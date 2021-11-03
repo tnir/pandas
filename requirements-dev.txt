@@ -58,7 +58,7 @@ scipy>=1.4.1
 numba>=0.50.1
 beautifulsoup4>=4.8.2
 html5lib
-lxml
+lxml==4.6.4
 openpyxl
 xlrd
 xlsxwriter

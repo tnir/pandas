@@ -27,7 +27,7 @@ dask
 toolz>=0.7.3
 partd>=0.3.10
 cloudpickle>=0.2.1
-markdown
+markdown==3.3.6
 feedparser
 pyyaml
 requests

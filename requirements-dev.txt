@@ -22,7 +22,7 @@ sphinx
 sphinx-panels
 nbconvert>=5.4.1
 nbsphinx
-pandoc
+pandoc==2.0.1
 dask
 toolz>=0.7.3
 partd>=0.3.10

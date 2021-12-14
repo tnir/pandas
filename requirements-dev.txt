@@ -83,7 +83,7 @@ numpydoc < 1.2
 pandas-dev-flaker==0.2.0
 types-python-dateutil
 types-PyMySQL
-types-pytz
+types-pytz==2021.3.3
 types-setuptools
 pytest-cython
 setuptools>=51.0.0

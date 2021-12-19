@@ -18,7 +18,7 @@ pycodestyle
 pyupgrade
 gitpython
 gitdb
-sphinx
+sphinx==4.3.2
 sphinx-panels
 nbconvert>=5.4.1
 nbsphinx

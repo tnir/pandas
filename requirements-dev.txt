@@ -21,7 +21,7 @@ gitdb
 sphinx
 sphinx-panels
 nbconvert>=5.4.1
-nbsphinx
+nbsphinx==0.8.8
 pandoc
 dask
 toolz>=0.7.3

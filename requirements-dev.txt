@@ -82,7 +82,7 @@ git+https://github.com/pydata/pydata-sphinx-theme.git@master
 numpydoc < 1.2
 pandas-dev-flaker==0.2.0
 types-python-dateutil
-types-PyMySQL
+types-PyMySQL==1.0.10
 types-pytz
 types-setuptools
 pytest-cython

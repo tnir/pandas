@@ -24,7 +24,7 @@ numpydoc < 1.2
 types-python-dateutil
 types-PyMySQL
 types-pytz
-types-setuptools
+types-setuptools==57.4.10
 nbconvert>=5.4.1
 nbsphinx
 pandoc

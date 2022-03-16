@@ -21,7 +21,7 @@ gitdb
 sphinx
 sphinx-panels
 numpydoc < 1.2
-types-python-dateutil
+types-python-dateutil==2.8.10
 types-PyMySQL
 types-pytz
 types-setuptools

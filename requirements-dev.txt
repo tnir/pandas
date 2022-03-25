@@ -20,7 +20,7 @@ gitpython
 gitdb
 numpydoc
 pandas-dev-flaker==0.4.0
-pydata-sphinx-theme
+pydata-sphinx-theme==0.8.1
 pytest-cython
 sphinx
 sphinx-panels

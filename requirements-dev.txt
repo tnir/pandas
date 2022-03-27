@@ -22,7 +22,7 @@ numpydoc
 pandas-dev-flaker==0.4.0
 pydata-sphinx-theme
 pytest-cython
-sphinx
+sphinx==4.5.0
 sphinx-panels
 types-python-dateutil
 types-PyMySQL

@@ -25,7 +25,7 @@ pytest-cython
 sphinx
 sphinx-panels
 types-python-dateutil
-types-PyMySQL
+types-PyMySQL==1.0.17
 types-pytz
 types-setuptools
 nbconvert>=6.4.5

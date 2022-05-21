@@ -36,7 +36,7 @@ toolz>=0.7.3
 partd>=0.3.10
 cloudpickle>=0.2.1
 markdown
-feedparser
+feedparser==6.0.10
 pyyaml
 requests
 boto3

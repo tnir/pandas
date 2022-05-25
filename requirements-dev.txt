@@ -27,7 +27,7 @@ sphinx-panels
 types-python-dateutil
 types-PyMySQL
 types-pytz
-types-setuptools
+types-setuptools==57.4.16
 nbconvert>=6.4.5
 nbsphinx
 pandoc

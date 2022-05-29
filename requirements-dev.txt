@@ -68,7 +68,7 @@ html5lib
 lxml
 openpyxl
 xlrd
-xlsxwriter
+xlsxwriter==1.1.5
 xlwt
 odfpy
 fastparquet>=0.4.0

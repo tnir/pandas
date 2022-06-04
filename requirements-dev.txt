@@ -29,7 +29,7 @@ types-PyMySQL
 types-pytz
 types-setuptools
 nbconvert>=6.4.5
-nbsphinx
+nbsphinx==0.8.9
 pandoc
 dask
 toolz>=0.7.3

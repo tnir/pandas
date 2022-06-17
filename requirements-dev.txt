@@ -30,7 +30,7 @@ types-pytz
 types-setuptools
 nbconvert>=6.4.5
 nbsphinx
-pandoc
+pandoc==2.1
 dask
 toolz>=0.7.3
 partd>=0.3.10

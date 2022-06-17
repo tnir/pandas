@@ -16,7 +16,7 @@ mypy==0.941
 pre-commit>=2.9.2
 pycodestyle
 pyupgrade
-gitpython
+gitpython==3.1.27
 gitdb
 numpydoc
 pandas-dev-flaker==0.5.0

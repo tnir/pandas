@@ -39,7 +39,7 @@ markdown
 feedparser
 pyyaml
 requests
-boto3
+boto3==1.21.8
 botocore>=1.11
 hypothesis>=5.5.3
 moto

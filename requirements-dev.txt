@@ -42,7 +42,7 @@ requests
 boto3
 botocore>=1.11
 hypothesis>=5.5.3
-moto
+moto==3.1.14
 flask
 pytest>=6.0
 pytest-cov

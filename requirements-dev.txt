@@ -51,7 +51,7 @@ pytest-asyncio>=0.17
 pytest-instafail
 seaborn
 statsmodels
-ipywidgets
+ipywidgets==7.7.1
 nbformat
 notebook>=6.0.3
 blosc

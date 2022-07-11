@@ -38,7 +38,7 @@ pyxlsb
 s3fs
 scipy
 sqlalchemy
-tabulate
+tabulate==0.8.10
 xarray
 xlrd
 xlsxwriter

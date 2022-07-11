@@ -56,7 +56,7 @@ statsmodels
 coverage
 pandas-datareader
 pyyaml
-py
+py==1.11.0
 torch
 moto
 flask

@@ -30,7 +30,7 @@ odfpy
 pandas-gbq
 psycopg2
 pyarrow
-pymysql
+pymysql==1.0.2
 pyreadstat
 tables
 python-snappy

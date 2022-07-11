@@ -13,7 +13,7 @@ numpy
 pytz
 beautifulsoup4
 blosc
-brotlipy
+brotlipy==0.7.0
 bottleneck
 fastparquet
 fsspec

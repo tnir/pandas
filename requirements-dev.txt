@@ -49,7 +49,7 @@ botocore
 cftime
 dask
 ipython
-geopandas
+geopandas==0.11.0
 seaborn
 scikit-learn
 statsmodels

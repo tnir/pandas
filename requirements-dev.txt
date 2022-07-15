@@ -92,7 +92,7 @@ nbformat
 notebook>=6.0.3
 ipykernel
 jinja2
-markdown
+markdown==3.4
 feedparser
 pyyaml
 requests

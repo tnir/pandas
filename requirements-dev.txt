@@ -39,7 +39,7 @@ s3fs
 scipy
 sqlalchemy
 tabulate
-xarray
+xarray==2022.6.0
 xlrd
 xlsxwriter
 xlwt

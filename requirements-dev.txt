@@ -69,7 +69,7 @@ flake8-comprehensions==3.7.0
 isort>=5.2.1
 mypy==0.960
 pre-commit>=2.15.0
-pycodestyle
+pycodestyle==2.9.0
 pyupgrade
 gitpython
 gitdb

@@ -47,7 +47,7 @@ zstandard
 aiobotocore<2.0.0
 botocore
 cftime
-dask
+dask==2022.8.0
 ipython
 geopandas
 seaborn

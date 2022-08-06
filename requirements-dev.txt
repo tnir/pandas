@@ -53,7 +53,7 @@ geopandas
 seaborn
 scikit-learn
 statsmodels
-coverage
+coverage==6.4.3
 pandas-datareader
 pyyaml
 py

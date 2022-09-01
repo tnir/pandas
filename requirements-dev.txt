@@ -16,7 +16,7 @@ blosc
 brotlipy
 bottleneck
 fastparquet
-fsspec
+fsspec==2022.8.2
 html5lib
 hypothesis
 gcsfs

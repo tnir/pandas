@@ -47,7 +47,7 @@ xlwt
 zstandard
 aiobotocore<2.0.0
 botocore
-cftime
+cftime==1.6.2
 dask
 ipython
 geopandas

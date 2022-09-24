@@ -78,7 +78,7 @@ numpydoc
 pandas-dev-flaker==0.5.0
 pydata-sphinx-theme==0.8.0
 pytest-cython
-sphinx
+sphinx==5.2.0.post0
 sphinx-panels
 sphinx-copybutton
 types-python-dateutil

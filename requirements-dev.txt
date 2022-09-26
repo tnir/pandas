@@ -70,7 +70,7 @@ isort>=5.2.1
 mypy==0.971
 pre-commit>=2.15.0
 pycodestyle
-pyupgrade
+pyupgrade==2.38.2
 gitpython
 gitdb
 natsort

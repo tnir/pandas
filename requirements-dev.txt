@@ -38,7 +38,7 @@ pyxlsb
 s3fs
 scipy
 sqlalchemy
-tabulate
+tabulate==0.9.0
 tzdata>=2022.1
 xarray
 xlrd

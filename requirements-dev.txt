@@ -34,7 +34,7 @@ pymysql
 pyreadstat
 tables
 python-snappy
-pyxlsb
+pyxlsb==1.0.10
 s3fs
 scipy
 sqlalchemy

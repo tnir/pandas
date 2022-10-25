@@ -28,7 +28,7 @@ numexpr>=2.8.0
 openpyxl
 odfpy
 pandas-gbq
-psycopg2
+psycopg2==2.9.5
 pyarrow
 pymysql
 pyreadstat

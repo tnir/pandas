@@ -31,7 +31,7 @@ pandas-gbq
 psycopg2
 pyarrow
 pymysql
-pyreadstat
+pyreadstat==1.2.0
 tables
 python-snappy
 pyxlsb

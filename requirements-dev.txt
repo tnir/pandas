@@ -29,7 +29,7 @@ openpyxl
 odfpy
 pandas-gbq
 psycopg2
-pyarrow
+pyarrow==10.0.0
 pymysql
 pyreadstat
 tables

@@ -5,7 +5,7 @@ cython==0.29.32
 pytest>=6.0
 pytest-cov
 pytest-xdist>=1.31
-psutil
+psutil==5.9.4
 pytest-asyncio>=0.17
 boto3
 python-dateutil

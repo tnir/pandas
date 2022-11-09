@@ -91,7 +91,7 @@ pandoc
 ipywidgets
 nbformat
 notebook>=6.0.3
-ipykernel
+ipykernel==6.17.1
 jinja2
 markdown
 feedparser

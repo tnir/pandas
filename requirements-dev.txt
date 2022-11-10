@@ -19,7 +19,7 @@ fastparquet
 fsspec
 html5lib
 hypothesis
-gcsfs
+gcsfs==2022.11.0
 jinja2
 lxml
 matplotlib

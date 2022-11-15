@@ -80,7 +80,7 @@ pydata-sphinx-theme==0.8.0
 pytest-cython
 sphinx
 sphinx-panels
-sphinx-copybutton
+sphinx-copybutton==0.5.1
 types-python-dateutil
 types-PyMySQL
 types-pytz

@@ -45,7 +45,7 @@ xlrd
 xlsxwriter
 xlwt
 zstandard
-aiobotocore<2.0.0
+aiobotocore==2.4.1
 botocore
 cftime
 dask

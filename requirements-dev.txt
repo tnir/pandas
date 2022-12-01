@@ -59,7 +59,7 @@ pandas-datareader
 pyyaml
 py
 torch
-moto
+moto==4.0.11
 flask
 asv
 black==22.3.0

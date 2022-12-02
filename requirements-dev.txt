@@ -18,7 +18,7 @@ bottleneck
 fastparquet
 fsspec
 html5lib
-hypothesis
+hypothesis==6.59.0
 gcsfs
 jinja2
 lxml

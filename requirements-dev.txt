@@ -46,7 +46,7 @@ xlsxwriter
 xlwt
 zstandard
 aiobotocore<2.0.0
-botocore
+botocore==1.29.23
 cftime
 dask
 ipython

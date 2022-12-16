@@ -12,7 +12,7 @@ python-dateutil
 numpy
 pytz
 beautifulsoup4
-blosc
+blosc==1.11.1
 brotlipy
 bottleneck
 fastparquet

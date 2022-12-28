@@ -42,7 +42,7 @@ tabulate
 tzdata>=2022.1
 xarray
 xlrd
-xlsxwriter
+xlsxwriter==3.0.4
 xlwt
 zstandard
 aiobotocore<2.0.0

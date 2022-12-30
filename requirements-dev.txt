@@ -51,7 +51,7 @@ cftime
 dask
 ipython
 geopandas
-seaborn
+seaborn==0.12.2
 scikit-learn
 statsmodels
 coverage

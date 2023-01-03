@@ -49,7 +49,7 @@ aiobotocore<2.0.0
 botocore
 cftime
 dask
-ipython
+ipython==8.8.0
 geopandas
 seaborn
 scikit-learn

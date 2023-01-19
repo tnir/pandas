@@ -15,7 +15,7 @@ beautifulsoup4
 blosc
 brotlipy
 bottleneck
-fastparquet
+fastparquet==2023.1.0
 fsspec
 html5lib
 hypothesis

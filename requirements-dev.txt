@@ -11,7 +11,7 @@ boto3
 python-dateutil
 numpy
 pytz
-beautifulsoup4
+beautifulsoup4==4.11.2
 blosc
 brotlipy
 bottleneck

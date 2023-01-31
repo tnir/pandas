@@ -25,7 +25,7 @@ lxml
 matplotlib
 numba>=0.53.1
 numexpr>=2.8.0
-openpyxl
+openpyxl==3.1.0
 odfpy
 pandas-gbq
 psycopg2

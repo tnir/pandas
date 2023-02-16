@@ -77,7 +77,7 @@ natsort
 numpydoc
 pandas-dev-flaker==0.5.0
 pydata-sphinx-theme==0.8.0
-pytest-cython
+pytest-cython==0.2.1
 sphinx
 sphinx-panels
 sphinx-copybutton

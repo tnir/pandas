@@ -55,7 +55,7 @@ seaborn
 scikit-learn
 statsmodels
 coverage
-pandas-datareader
+pandas-datareader==0.10.0
 pyyaml
 py
 torch

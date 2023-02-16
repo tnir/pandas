@@ -71,7 +71,7 @@ mypy==0.971
 pre-commit>=2.15.0
 pycodestyle
 pyupgrade
-gitpython
+gitpython==3.1.31
 gitdb
 natsort
 numpydoc

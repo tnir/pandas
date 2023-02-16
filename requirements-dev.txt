@@ -60,7 +60,7 @@ pyyaml
 py
 torch
 moto
-flask
+flask==2.2.3
 asv
 black==22.3.0
 cpplint

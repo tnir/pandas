@@ -44,7 +44,7 @@ xarray
 xlrd
 xlsxwriter
 xlwt
-zstandard
+zstandard==0.20.0
 aiobotocore<2.0.0
 botocore
 cftime

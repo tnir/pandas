@@ -82,7 +82,7 @@ sphinx
 sphinx-panels
 sphinx-copybutton
 types-python-dateutil
-types-PyMySQL
+types-PyMySQL==1.0.19.4
 types-pytz
 types-setuptools
 nbconvert>=6.4.5

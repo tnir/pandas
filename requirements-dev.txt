@@ -37,7 +37,7 @@ python-snappy
 pyxlsb
 s3fs
 scipy
-sqlalchemy
+sqlalchemy==2.0.5
 tabulate
 tzdata>=2022.1
 xarray

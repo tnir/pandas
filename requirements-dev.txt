@@ -14,7 +14,7 @@ pytz
 beautifulsoup4
 blosc
 brotlipy
-bottleneck
+bottleneck==1.3.7
 fastparquet
 fsspec
 html5lib

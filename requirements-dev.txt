@@ -83,7 +83,7 @@ jinja2
 markdown
 feedparser
 pyyaml
-requests
+requests==2.29.0
 pygments
 sphinx-toggleprompt
 typing_extensions; python_version<"3.11"

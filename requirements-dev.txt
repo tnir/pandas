@@ -2,7 +2,7 @@
 # See that file for comments about the need/usage of each dependency.
 
 pip
-versioneer[toml]
+versioneer[toml]==0.29
 cython==0.29.33
 pytest>=7.0.0
 pytest-cov

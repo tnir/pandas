@@ -1,7 +1,7 @@
 # This file is auto-generated from environment.yml, do not modify.
 # See that file for comments about the need/usage of each dependency.
 
-pip
+pip==23.2.1
 versioneer[toml]
 cython==0.29.33
 pytest>=7.0.0

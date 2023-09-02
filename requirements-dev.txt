@@ -58,7 +58,7 @@ mypy==1.0
 pre-commit>=2.15.0
 pyupgrade
 ruff==0.0.215
-gitpython
+gitpython==3.1.34
 gitdb
 natsort
 numpydoc

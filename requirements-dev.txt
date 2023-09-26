@@ -61,7 +61,7 @@ ruff==0.0.215
 gitpython
 gitdb
 natsort
-numpydoc
+numpydoc==1.6.0
 pydata-sphinx-theme<0.11
 pytest-cython
 sphinx

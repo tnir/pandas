@@ -48,7 +48,7 @@ zstandard>=0.15.2
 dask
 seaborn
 moto
-flask
+flask==3.0.0
 asv>=0.5.1
 black==23.1.0
 cpplint

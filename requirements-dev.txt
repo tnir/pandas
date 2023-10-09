@@ -57,7 +57,7 @@ tokenize-rt
 pre-commit>=2.15.0
 gitpython
 gitdb
-google-auth
+google-auth==2.23.3
 natsort
 numpydoc
 pydata-sphinx-theme==0.13

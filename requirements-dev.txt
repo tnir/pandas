@@ -55,7 +55,7 @@ flake8==6.0.0
 mypy==1.4.1
 tokenize-rt
 pre-commit>=2.15.0
-gitpython
+gitpython==3.1.38
 gitdb
 google-auth
 natsort

@@ -81,7 +81,7 @@ markdown
 feedparser
 pyyaml
 requests
-pygments
+pygments==2.17.1
 dataframe-api-compat>=0.1.7
 sphinx-toggleprompt
 typing_extensions; python_version<"3.11"

@@ -47,7 +47,7 @@ xlrd>=2.0.1
 xlsxwriter>=3.0.3
 zstandard>=0.17.0
 dask
-seaborn
+seaborn==0.13.1
 moto
 flask
 asv>=0.5.1

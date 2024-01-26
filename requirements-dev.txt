@@ -11,7 +11,7 @@ pytest-cov
 pytest-xdist>=2.2.0
 pytest-qt>=4.2.0
 PyQt5>=5.15.9
-coverage
+coverage==7.4.1
 python-dateutil
 numpy<2
 pytz

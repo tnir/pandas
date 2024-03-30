@@ -62,7 +62,7 @@ google-auth
 natsort
 numpydoc
 pydata-sphinx-theme==0.14
-pytest-cython
+pytest-cython==0.2.2
 sphinx
 sphinx-design
 sphinx-copybutton

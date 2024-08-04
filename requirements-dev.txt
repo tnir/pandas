@@ -55,7 +55,7 @@ flask
 asv>=0.6.1
 flake8==6.1.0
 mypy==1.9.0
-tokenize-rt
+tokenize-rt==6.0.0
 pre-commit>=3.6.0
 gitpython
 gitdb

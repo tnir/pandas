@@ -12,7 +12,7 @@ pytest-xdist>=3.4.0
 pytest-qt>=4.4.0
 pytest-localserver
 PyQt5>=5.15.9
-coverage
+coverage==7.6.2
 python-dateutil
 numpy<2
 pytz

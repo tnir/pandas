@@ -14,7 +14,7 @@ pytest-localserver
 PyQt5>=5.15.9
 coverage
 python-dateutil
-numpy<2
+numpy==2.2.1
 pytz
 beautifulsoup4>=4.11.2
 blosc

@@ -59,7 +59,7 @@ mypy==1.13.0
 tokenize-rt
 pre-commit>=4.0.1
 gitpython
-gitdb
+gitdb==4.0.12
 google-auth
 natsort
 numpydoc

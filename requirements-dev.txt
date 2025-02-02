@@ -51,7 +51,7 @@ xlsxwriter>=3.0.5
 zstandard>=0.19.0
 dask
 seaborn
-moto
+moto==5.0.28
 flask
 asv>=0.6.1
 flake8==7.1.0

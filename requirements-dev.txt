@@ -83,7 +83,7 @@ ipykernel
 markdown
 feedparser
 pyyaml
-requests
+requests==2.29.0
 pygments
 adbc-driver-postgresql>=0.10.0
 adbc-driver-sqlite>=0.8.0

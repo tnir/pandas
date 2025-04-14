@@ -79,7 +79,7 @@ pandoc
 ipywidgets
 nbformat
 notebook>=7.0.6
-ipykernel
+ipykernel==6.29.4
 markdown
 feedparser
 pyyaml

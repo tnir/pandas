@@ -84,7 +84,7 @@ markdown
 feedparser
 pyyaml
 requests
-pygments
+pygments==2.18.0
 adbc-driver-postgresql>=0.10.0
 adbc-driver-sqlite>=0.8.0
 typing_extensions; python_version<"3.11"

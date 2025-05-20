@@ -83,7 +83,7 @@ pyyaml
 requests
 pygments
 jupyterlite-core
-jupyterlite-pyodide-kernel
+jupyterlite-pyodide-kernel==0.5.2
 adbc-driver-postgresql>=0.10.0
 adbc-driver-sqlite>=0.8.0
 typing_extensions; python_version<"3.11"

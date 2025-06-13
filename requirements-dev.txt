@@ -7,7 +7,7 @@ cython~=3.0.5
 meson[ninja]==1.2.1
 meson-python==0.13.1
 pytest>=7.3.2
-pytest-cov
+pytest-cov==6.2.1
 pytest-xdist>=3.4.0
 pytest-qt>=4.4.0
 pytest-localserver

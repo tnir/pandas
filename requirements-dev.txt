@@ -81,7 +81,7 @@ markdown
 feedparser
 pyyaml
 requests
-pygments
+pygments==2.19.2
 jupyterlite-core
 jupyterlite-pyodide-kernel
 adbc-driver-postgresql>=0.10.0

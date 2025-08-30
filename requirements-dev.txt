@@ -74,7 +74,7 @@ types-setuptools
 nbconvert>=7.11.0
 nbsphinx
 pandoc
-ipywidgets
+ipywidgets==8.0.5
 nbformat
 notebook>=7.0.6
 ipykernel

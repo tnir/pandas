@@ -83,6 +83,6 @@ feedparser
 pyyaml
 requests
 pygments
-jupyterlite-core
+jupyterlite-core==0.6.0
 jupyterlite-pyodide-kernel
 tzdata>=2023.3

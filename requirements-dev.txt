@@ -1,7 +1,7 @@
 # This file is auto-generated from environment.yml, do not modify.
 # See that file for comments about the need/usage of each dependency.
 
-pip
+pip==23.2
 versioneer[toml]
 cython<4.0.0a0
 meson[ninja]==1.2.1

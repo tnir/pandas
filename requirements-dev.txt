@@ -53,7 +53,7 @@ dask
 seaborn
 moto
 asv>=0.6.1
-flake8==7.1.0
+flake8==7.3.0
 mypy==1.13.0
 tokenize-rt
 pre-commit>=4.2.0

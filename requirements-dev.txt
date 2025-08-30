@@ -70,7 +70,7 @@ types-python-dateutil
 types-PyMySQL
 types-pytz
 types-PyYAML
-types-setuptools
+types-setuptools==74.0.0.20240830
 nbconvert>=7.11.0
 nbsphinx
 pandoc

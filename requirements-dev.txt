@@ -55,7 +55,7 @@ moto
 asv>=0.6.1
 flake8==7.1.0
 mypy==1.13.0
-tokenize-rt
+tokenize-rt==6.2.0
 pre-commit>=4.2.0
 gitpython
 natsort

@@ -64,7 +64,7 @@ numpydoc
 pydata-sphinx-theme==0.16
 pytest-cython
 sphinx
-sphinx-design
+sphinx-design==0.6.0
 sphinx-copybutton
 types-python-dateutil
 types-PyMySQL

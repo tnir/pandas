@@ -63,7 +63,7 @@ pickleshare
 numpydoc
 pydata-sphinx-theme==0.16
 pytest-cython
-sphinx
+sphinx==7.4.5
 sphinx-design
 sphinx-copybutton
 types-python-dateutil

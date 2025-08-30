@@ -79,7 +79,7 @@ nbformat
 notebook>=7.0.6
 ipykernel
 markdown
-feedparser
+feedparser==6.0.5
 pyyaml
 requests
 pygments

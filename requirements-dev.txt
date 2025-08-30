@@ -67,7 +67,7 @@ sphinx
 sphinx-design
 sphinx-copybutton
 types-python-dateutil
-types-PyMySQL
+types-PyMySQL==1.0.19.2
 types-pytz
 types-PyYAML
 types-setuptools

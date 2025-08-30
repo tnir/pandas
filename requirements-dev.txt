@@ -81,7 +81,7 @@ ipykernel
 markdown
 feedparser
 pyyaml
-requests
+requests==2.29.0
 pygments
 jupyterlite-core
 jupyterlite-pyodide-kernel

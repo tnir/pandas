@@ -69,7 +69,7 @@ sphinx-copybutton
 types-python-dateutil
 types-PyMySQL
 types-pytz
-types-PyYAML
+types-PyYAML==6.0.12.20240917
 types-setuptools
 nbconvert>=7.11.0
 nbsphinx

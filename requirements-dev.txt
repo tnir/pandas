@@ -50,7 +50,7 @@ xlrd>=2.0.1
 xlsxwriter>=3.2.0
 zstandard>=0.22.0
 dask
-seaborn
+seaborn==0.13.1
 moto
 asv>=0.6.1
 flake8==7.1.0

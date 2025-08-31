@@ -12,7 +12,7 @@ pytest-xdist>=3.4.0
 pytest-qt>=4.4.0
 pytest-localserver
 PyQt5>=5.15.9
-coverage
+coverage==7.10.6
 python-dateutil
 numpy<3
 adbc-driver-postgresql>=1.2.0

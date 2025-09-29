@@ -50,7 +50,7 @@ xlsxwriter>=3.2.0
 zstandard>=0.23.0
 dask
 seaborn
-ipython
+ipython==9.6.0
 moto
 asv>=0.6.1
 flake8==7.1.0

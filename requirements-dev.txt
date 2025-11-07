@@ -70,7 +70,7 @@ scipy-stubs
 types-python-dateutil
 types-PyMySQL
 types-pytz
-types-PyYAML
+types-PyYAML==6.0.12.20250915
 types-setuptools
 nbconvert>=7.11.0
 nbsphinx

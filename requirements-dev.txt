@@ -81,7 +81,7 @@ notebook>=7.0.6
 ipykernel
 markdown
 feedparser
-pyyaml
+pyyaml==6.0.3
 requests
 pygments
 jupyterlite-core

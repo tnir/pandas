@@ -76,7 +76,7 @@ nbconvert>=7.11.0
 nbsphinx
 pandoc
 ipywidgets
-nbformat
+nbformat==5.10.2
 notebook>=7.0.6
 ipykernel
 markdown

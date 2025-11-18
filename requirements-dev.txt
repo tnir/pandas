@@ -51,7 +51,7 @@ zstandard>=0.23.0
 dask
 seaborn
 ipython
-moto
+moto==5.1.17
 asv>=0.6.1
 flake8==7.1.0
 mypy==1.17.1

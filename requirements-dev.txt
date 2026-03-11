@@ -62,7 +62,7 @@ natsort
 pickleshare
 numpydoc
 pydata-sphinx-theme==0.16
-pytest-cython
+pytest-cython==0.4.0
 sphinx
 sphinx-design
 sphinx-copybutton

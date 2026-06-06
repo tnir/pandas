@@ -51,7 +51,7 @@ zstandard>=0.23.0
 dask
 seaborn
 ipython
-moto
+moto==5.2.2
 asv>=0.6.5
 py-rattler
 mypy==1.17.1

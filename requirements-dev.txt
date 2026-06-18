@@ -63,7 +63,7 @@ pickleshare
 numpydoc
 pytest-cython>=0.4.0
 sphinx
-sphinx-design
+sphinx-design==0.7.0
 sphinx-copybutton
 scipy-stubs
 types-python-dateutil

@@ -82,7 +82,7 @@ feedparser
 pyyaml
 requests
 pygments
-jupyterlite-core
+jupyterlite-core==0.6.0
 jupyterlite-pyodide-kernel
 tzdata>=2023.3
 https://github.com/jorisvandenbossche/pydata-sphinx-theme/archive/refs/heads/v0.16.1+dismissable-announcement-banner.zip

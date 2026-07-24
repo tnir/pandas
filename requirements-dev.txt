@@ -69,7 +69,7 @@ scipy-stubs
 types-python-dateutil
 types-pymysql
 types-pytz
-types-pyyaml
+types-pyyaml==6.0.12.20260724
 nbconvert>=7.11.0
 nbsphinx
 pandoc

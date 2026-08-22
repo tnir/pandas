@@ -65,7 +65,7 @@ pytest-cython>=0.4.0
 sphinx
 sphinx-design
 sphinx-copybutton
-scipy-stubs
+scipy-stubs==1.18.1.0
 types-python-dateutil
 types-pymysql
 types-pytz

@@ -60,7 +60,7 @@ pre-commit>=4.2.0
 gitpython
 natsort
 pickleshare
-numpydoc
+numpydoc==1.11.0
 pytest-cython>=0.4.0
 sphinx
 sphinx-design

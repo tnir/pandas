@@ -62,7 +62,7 @@ natsort
 pickleshare
 numpydoc
 pytest-cython>=0.4.0
-sphinx
+sphinx==9.2.0
 sphinx-design
 sphinx-copybutton
 scipy-stubs

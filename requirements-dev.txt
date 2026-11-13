@@ -60,7 +60,7 @@ gitpython
 natsort
 pickleshare
 numpydoc
-pydata-sphinx-theme==0.20.0
+pydata-sphinx-theme==0.24.0
 pytest-cython>=0.4.0
 sphinx
 sphinx-design

@@ -52,7 +52,7 @@ seaborn
 ipython
 moto
 asv>=0.6.6
-py-rattler
+py-rattler==0.29.0
 mypy==2.4.0
 tokenize-rt
 pre-commit>=4.2.0

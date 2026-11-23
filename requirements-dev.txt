@@ -47,7 +47,7 @@ xarray>=2025.7.1
 xlrd>=2.0.2
 xlsxwriter>=3.2.5
 zstandard>=0.23.0
-dask
+dask==2026.11.0
 seaborn
 ipython
 moto
